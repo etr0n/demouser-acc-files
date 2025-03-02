@@ -1,6 +1,6 @@
 # demouser-acc-files
 
-Demo application for
+This is a demo application designed to interact with the Direct Admin API to manage and display files and directories.
 
 ## User credentials
 
@@ -21,10 +21,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
